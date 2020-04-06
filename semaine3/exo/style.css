@@ -1,0 +1,49 @@
+/* .carre, .carre1{
+    width: 300px;
+    height:300px;
+    background-color: darkblue;
+    margin:10px;
+    color:white;
+    font-weight: bolder;
+}
+
+.carre:hover{
+    background-color: darkgoldenrod;
+}
+
+.carre1:active{
+background-color: darkred;
+} */
+
+div{
+    border:2px solid black;
+}
+
+.droite{
+    text-align: right;
+}
+
+.centre{
+    text-align: center;
+}
+
+.justifie{
+    text-align: justify;
+}
+
+.carre, .carre1{
+    width: 300px;
+    height:300px;
+    background-color: darkblue;
+    margin:10px;
+    color:white;
+    font-weight: bolder;
+}
+
+.carre{
+    float:right;
+}
+
+.carre1{
+    float:left;
+}

@@ -1,0 +1,13 @@
+#monmenu{
+    padding-right: 0px;
+    padding-left: 0px;
+
+}
+
+#monimage{
+    background: url('https://yevgenysim.github.io/shopper/assets/img/covers/cover-5.jpg') no-repeat center center;
+    width: 100%; /* Il occupe toute la largeur de l'écran */
+    height: 20rem; /* On met ici la même hauteur que le jumbotron */
+    
+
+}

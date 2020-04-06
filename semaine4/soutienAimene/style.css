@@ -1,0 +1,27 @@
+.gauche, .droite{
+    height: 200px;
+    width: 200px;
+}
+
+.gauche{
+    background-color: indianred;
+}
+
+.droite{
+    background-color: lawngreen;
+    float: right;
+}
+
+.textedroite{
+    text-align:left;
+}
+
+.chat1{
+    width:20%;
+    float: right;
+}
+
+.chat2{
+    width:20%;
+    float: left;
+}
